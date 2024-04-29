@@ -1,0 +1,15 @@
+C:\Users\MICAELA\source\repos\tp3-programacion-ej4\bin\Debug\net6.0\tp3-programacion-ej4.exe
+C:\Users\MICAELA\source\repos\tp3-programacion-ej4\bin\Debug\net6.0\tp3-programacion-ej4.deps.json
+C:\Users\MICAELA\source\repos\tp3-programacion-ej4\bin\Debug\net6.0\tp3-programacion-ej4.runtimeconfig.json
+C:\Users\MICAELA\source\repos\tp3-programacion-ej4\bin\Debug\net6.0\tp3-programacion-ej4.dll
+C:\Users\MICAELA\source\repos\tp3-programacion-ej4\bin\Debug\net6.0\tp3-programacion-ej4.pdb
+C:\Users\MICAELA\source\repos\tp3-programacion-ej4\obj\Debug\net6.0\tp3-programacion-ej4.csproj.AssemblyReference.cache
+C:\Users\MICAELA\source\repos\tp3-programacion-ej4\obj\Debug\net6.0\tp3-programacion-ej4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICAELA\source\repos\tp3-programacion-ej4\obj\Debug\net6.0\tp3-programacion-ej4.AssemblyInfoInputs.cache
+C:\Users\MICAELA\source\repos\tp3-programacion-ej4\obj\Debug\net6.0\tp3-programacion-ej4.AssemblyInfo.cs
+C:\Users\MICAELA\source\repos\tp3-programacion-ej4\obj\Debug\net6.0\tp3-programacion-ej4.csproj.CoreCompileInputs.cache
+C:\Users\MICAELA\source\repos\tp3-programacion-ej4\obj\Debug\net6.0\tp3-programacion-ej4.dll
+C:\Users\MICAELA\source\repos\tp3-programacion-ej4\obj\Debug\net6.0\refint\tp3-programacion-ej4.dll
+C:\Users\MICAELA\source\repos\tp3-programacion-ej4\obj\Debug\net6.0\tp3-programacion-ej4.pdb
+C:\Users\MICAELA\source\repos\tp3-programacion-ej4\obj\Debug\net6.0\tp3-programacion-ej4.genruntimeconfig.cache
+C:\Users\MICAELA\source\repos\tp3-programacion-ej4\obj\Debug\net6.0\ref\tp3-programacion-ej4.dll
